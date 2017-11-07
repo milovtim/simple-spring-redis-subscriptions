@@ -1,0 +1,6 @@
+endpoints:
+  sensitive: false
+logging:
+  level:
+    com.panbet.redis.collections.ListFiller: WARN
+    com.panbet.redis.collections: DEBUG
